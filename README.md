@@ -16,5 +16,5 @@ Enter the name of an ingredient and you'll get many recipes with that ingridient
 
 <br/>
 
-# Link: 
+## Link: 
 https://lionellgh.github.io/recipes-api/
